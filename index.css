@@ -1,0 +1,93 @@
+body{
+text-align: center;
+margin:0px;
+background-color: #C2FFF9;
+}
+.nameunderline{
+    text-decoration: underline;
+}
+.first{
+    display:inline-block;
+    background-color: #C2FFF9;
+    width:100%;
+    height:auto;
+    
+}
+.cloud1{
+    margin:10px;
+position:absolute;
+right:21%;
+top:100px;
+
+
+}
+.name{
+    margin:5px;
+    text-align: center;
+    position:absolute;
+    top:100px;
+    right:43%;
+    color: #71DFE7;
+
+}
+.cloud2{
+    margin:5px;
+    position:absolute;
+    bottom:500px;
+    right:70%;
+
+}
+.mountain{
+    margin: 5px;
+    position:absolute;
+    bottom:100px;
+    right:30%;
+}
+.para{
+    margin:5px;
+    font-style:italic;
+    color: #71DFE7;
+    position:absolute;
+    bottom:450px;
+    right: 48%;
+    
+}
+.backgroundcolor{
+    background-color: #C2FFF9;
+    margin:0%;
+    height:100%;
+    width: 100%;
+}
+.hobbies{
+    width:100%;
+    height:600px;
+    margin:0px;
+    position:absolute;
+    top:720px;
+    background-color:#FFE652 ;
+}
+.nav{
+    position:fixed;
+    height:40px;
+    top:0px;
+    width:100%;
+    background-color:#009DAE;
+    text-align: left;
+    overflow: hidden;
+    font-family: cursive;
+}
+.nav a{
+    float:left;
+    color:#C2FFF9;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size:17px;
+}
+.nav a:hover {
+    background-color: #FFE652;
+    color: #009DAE;
+}
+#login{
+    float: right;
+}
